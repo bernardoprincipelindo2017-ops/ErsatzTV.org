@@ -23,3 +23,21 @@ ErsatzTV depends on an up-to-date version of FFmpeg and FFprobe. Windows package
 4. Extract the latest release to the now-empty install location.
 5. Run `ErsatzTV-Windows.exe`.
 6. Use the tray menu to open the UI, view logs or exit.
+
+### PT-BR:
+
+### Instalando No Windows
+
+1. Crie Uma Pasta Chamada `ersatztv` Em Qualquer Lugar.
+2. Faça Download E Extraia Isso: [Ultima Versão No GitHub](https://github.com/ErsatzTV/ErsatzTV/releases) Na Pasta `ersatztv`
+3. Rode `ErsatzTV-Windows.exe`
+
+### FFmpeg
+ErsatzTV Depende Da Versão Up-To-Date Do FFmpeg E FFprobe. Pack Do Windows Está Compactado Com Todos As Coisas Obrigatorias Incluida, Incluida FFmpeg. A Versão Compativel Do FFmpeg Está Encontrada A: [ErsatzTV-FFmpeg](https://github.com/ErsatzTV/ErsatzTV-ffmpeg/releases/tag/7.1.1).
+
+### Atualizando No Windows
+
+1. Limpamente Saia Do ErsatzTV
+2. Completamente Limpe A Pasta `ersatztv`
+3. 2. Faça Download E Extraia Isso: [Ultima Versão No GitHub](https://github.com/ErsatzTV/ErsatzTV/releases) Na Pasta `ersatztv`
+4. Rode `ErsatzTV-Windows.exe`
